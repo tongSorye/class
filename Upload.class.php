@@ -19,7 +19,7 @@
 		protected $fileInfo;
 		protected $error;
 		protected $ext;
-		protected $imgRes; // 是否生成等比例缩放图
+		protected $imgRes;  // 是否生成等比例缩放图
 		protected $maxw;
 		protected $maxh;
 		protected $pre;
